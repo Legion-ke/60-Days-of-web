@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+
+}
+.art{
+  margin: auto;
+}
+td{
+  width: 400px;
+  height: 1000px;
+  border: 4px solid white;
+}
+#itemone{
+  background-color: #664C43;
+
+}
+#itemtwo{
+  background-color: #873D48;
+}
+#itemthree{
+  background-color: #DC758F;
+}
+#itemfour{
+  background-color: #E3D3E4;
+}
+#itemfive{
+  background-color: #00FFCD;
+
+}

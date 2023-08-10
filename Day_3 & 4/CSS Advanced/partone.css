@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Arial";
+}
+p{
+  font-family: 'Orbitron', sans-serif;;
+}
+body{
+  font-size: 10px;
+
+}
+#two{
+  font-size: 2.0em;
+}
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+h1{
+  text-align: center;
+}

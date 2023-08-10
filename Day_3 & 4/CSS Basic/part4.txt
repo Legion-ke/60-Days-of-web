@@ -1,0 +1,5 @@
+Exploring google chrome
+
+Go to chrome
+
+right click + inspect = inspecting webpage
