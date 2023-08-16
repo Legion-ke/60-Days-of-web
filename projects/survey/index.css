@@ -1,0 +1,16 @@
+body{
+  background-color: #07072e;
+  color: white;
+}
+.title{
+  text-align: center;
+}
+form{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  margin: 50px auto;
+}
+#sub{
+  border-radius: 25px;
+}
